@@ -3,9 +3,12 @@ title: "About"
 permalink: /about/
 layout: single
 author_profile: true
+show_title: false
 toc: true
 toc_sticky: true
 ---
+
+## About
 
 I graduated with a Ph.D. graduate in Electrical and Computer Engineering from UC Davis in 2024, where I worked under the supervision of Prof. Soheil Ghiasi. I received my B.S. in Electrical Engineering from the University of Tabriz in 2018, joined the Laboratory for Embedded and Programmable Systems at UC Davis later that year as a Graduate Student Researcher, and my M.S. in Electrical and Computer Engineering from UC Davis in 2021.
 
