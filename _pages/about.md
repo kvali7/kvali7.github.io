@@ -7,15 +7,13 @@ toc: true
 toc_sticky: true
 ---
 
-I am a Ph.D. graduate in Electrical and Computer Engineering from UC Davis, where I worked under the supervision of Prof. Soheil Ghiasi. I received my B.S. in Electrical Engineering from the University of Tabriz in 2018, joined the Laboratory for Embedded and Programmable Systems at UC Davis later that year as a Graduate Student Researcher, and earned my M.S. in Electrical and Computer Engineering from UC Davis in 2021.
+I graduated with a Ph.D. graduate in Electrical and Computer Engineering from UC Davis in 2024, where I worked under the supervision of Prof. Soheil Ghiasi. I received my B.S. in Electrical Engineering from the University of Tabriz in 2018, joined the Laboratory for Embedded and Programmable Systems at UC Davis later that year as a Graduate Student Researcher, and my M.S. in Electrical and Computer Engineering from UC Davis in 2021.
 
-## Research
 
-My work centers on embedded software systems for health applications. A major focus has been the Transabdominal Fetal Pulse Oximetry (TFO) project, where I worked on system design, signal processing, and machine learning for estimating fetal blood oxygen saturation from non-invasive measurements.
 
 ## Leadership
 
-I co-led the Storx Technologies team in the 2022 UC Davis Big Bang! Business Competition alongside Regina Hoang. Storx Technologies developed a non-invasive medical device designed to estimate fetal oxygen levels in the womb and help clinicians better assess fetal well-being. Our team won first place and received the top innovation award.
+I am a co-founder of Storx Technologies. Storx Technologies is developing a non-invasive medical device designed to estimate fetal oxygen levels in the womb and help clinicians better assess fetal well-being. Our team won first place and received the top innovation award the 2022 UC Davis Big Bang! Business Competition.
 
 ## Teaching
 
@@ -27,12 +25,8 @@ I served as a teaching assistant for the following UC Davis courses:
 - `EEC 007` Introduction to C and Microcontrollers
 - `EEC 001` Introduction to Electrical & Computer Engineering
 
-## Industry Experience
 
-- Storx Technologies, Summer 2023
-- Storx Technologies, Summer 2024
-
-## Research Interests
+## Interests
 
 - Embedded systems
 - Medical technologies
