@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 ---
 
-## Selected Publications
 
 1. Kasap, B., Vali, K., Qian, W., Mo, L., Chithiwala, Z. H., Curtin, A. C., Ghiasi, S., and Hedriana, H. L. "Transcutaneous Discrimination of Fetal Heart Rate from Maternal Heart Rate: A Fetal Oximetry Proof-of-Concept." *Reproductive Sciences*, 2024.
 2. Vali, K., Vafi, A., Kasap, B., and Ghiasi, S. "BASS: Safe Deep Tissue Optical Sensing for Wearable Embedded Systems." *ACM Transactions on Embedded Computing Systems*, 2023.
