@@ -14,7 +14,11 @@
 
   <div class="author__content">
     <h3 class="author__name p-name" itemprop="name">
-      <a class="u-url" rel="me" href="{{ author.home | default: '/' | absolute_url }}" itemprop="url">{{ author.name }}</a>
+      {% if author.home %}
+        <a class="u-url" rel="me" href="{{ author.home | absolute_url }}" itemprop="url">{{ author.name }}</a>
+      {% else %}
+        <span>{{ author.name }}</span>
+      {% endif %}
     </h3>
     {% if author.bio %}
       <div class="author__bio p-note" itemprop="description">
