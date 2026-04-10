@@ -15,6 +15,20 @@ I graduated with a Ph.D. graduate in Electrical and Computer Engineering from UC
 
 I am a co-founder of Storx Technologies. Storx Technologies is developing a non-invasive medical device designed to estimate fetal oxygen levels in the womb and help clinicians better assess fetal well-being. Our team won first place and received the top innovation award the 2022 UC Davis Big Bang! Business Competition.
 
+
+## Topics of Interests
+
+- Embedded systems
+- Medical technologies
+- Wearables
+- Machine learning
+- Data science
+- Signal processing
+- Hardware/software co-design
+- System design and optimization
+- Internet of Things
+
+
 ## Teaching
 
 I served as a teaching assistant for the following UC Davis courses:
@@ -24,16 +38,3 @@ I served as a teaching assistant for the following UC Davis courses:
 - `EEC 018` Digital Systems Design
 - `EEC 007` Introduction to C and Microcontrollers
 - `EEC 001` Introduction to Electrical & Computer Engineering
-
-
-## Interests
-
-- Embedded systems
-- Medical technologies
-- Machine learning
-- Data analysis in health applications
-- Data science
-- Signal processing
-- Hardware/software co-design
-- System design and optimization
-- Internet of Things
