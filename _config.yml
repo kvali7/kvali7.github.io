@@ -120,7 +120,6 @@ author:
   location         : "Davis, CA"
   email            : "kvali@ucdavis.edu"
   linkedin         : "kvali"
-  github           : "kvali7"
   twitter          : "kourosh_vali"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
@@ -131,7 +130,7 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: "X (Twitter)"
       icon: "fab fa-fw fa-square-x-twitter"
       # url:
       # rel: "me"  # optional: adds rel attribute (e.g. for IndieWeb web sign-in)
