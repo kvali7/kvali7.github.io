@@ -4,6 +4,8 @@ permalink: /publications/
 layout: single
 author_profile: true
 show_title: false
+classes:
+  - publications-page
 ---
 
 ## Selected Publications
@@ -22,4 +24,3 @@ show_title: false
 12. Vali, K., Kasap, B., Qian, W., Vafi, A., Saffarpour, M., and Ghiasi, S. (2021). Estimation of Fetal Blood Oxygen Saturation from Transabdominally Acquired Photoplethysmogram Waveform. *IEEE 43rd International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)*.
 13. Kasap, B., Vali, K., Qian, W., Chak, W. H., Vafi, A., Saito, N., and Ghiasi, S. (2021). Multi-Detector Signal Extraction Method for Transabdominal Fetal Pulse Oximetry. *IEEE 43rd International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)*.
 14. Fong, D. D., Vali, K., and Ghiasi, S. (2020). Contextually-aware fetal sensing in transabdominal fetal pulse oximetry. *ACM/IEEE 11th International Conference on Cyber-Physical Systems (ICCPS)*.
-
