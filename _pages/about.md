@@ -1,5 +1,4 @@
 ---
-
 title: "About"
 permalink: /about/
 layout: single
@@ -7,6 +6,7 @@ author_profile: true
 show_title: false
 toc: true
 toc_sticky: true
+---
 
 ## About
 

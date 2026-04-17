@@ -1,10 +1,10 @@
 ---
-
 title: "Publications"
 permalink: /publications/
 layout: single
 author_profile: true
 show_title: false
+---
 
 ## Selected Publications
 
