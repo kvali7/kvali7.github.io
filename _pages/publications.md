@@ -4,8 +4,7 @@ permalink: /publications/
 layout: single
 author_profile: true
 show_title: false
-classes:
-  - publications-page
+classes: wide
 ---
 
 ## Selected Publications
