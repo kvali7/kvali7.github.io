@@ -28,6 +28,7 @@ I am a co-founder of Storx Technologies. Storx Technologies is developing a non-
 - Internet of Things
 - Signal processing
 
+
 ## Teaching
 
 I served as a teaching assistant for the following UC Davis courses:
@@ -37,4 +38,3 @@ I served as a teaching assistant for the following UC Davis courses:
 - `EEC 018` Digital Systems Design
 - `EEC 007` Introduction to C and Microcontrollers
 - `EEC 001` Introduction to Electrical & Computer Engineering
-
