@@ -8,13 +8,14 @@ toc: true
 toc_sticky: true
 ---
 
+
 ## About
 
-I graduated with a Ph.D. graduate in Electrical and Computer Engineering from UC Davis in 2024, where I worked under the supervision of Prof. Soheil Ghiasi. I received my B.S. in Electrical Engineering from the University of Tabriz in 2018 and joined the Laboratory for Embedded and Programmable Systems at UC Davis later that year as a Graduate Student Researcher. My interest lies on the intersection of software, hardware, and AI for medical/ health applications.
+I graduated with a Ph.D. in Electrical and Computer Engineering from UC Davis in 2025, where I worked under the supervision of Prof. Soheil Ghiasi. I received my B.S. in Electrical Engineering from the University of Tabriz and joined the Laboratory for Embedded and Programmable Systems at UC Davis the following year as a Graduate Student Researcher. My interest lies on the intersection of software, hardware, and AI for medical/ health applications.
 
 ## Leadership
 
-I am a co-founder of Storx Technologies. Storx Technologies is developing a non-invasive medical device designed to assist clinicians better assess fetal well-being by providing a more reliable fetal health indicators compared to current technology. Our team won first place and received the top innovation award the 2022 UC Davis *Big Bang!* Business Competition.
+I am a co-founder of Storx Technologies. Storx Technologies is developing a non-invasive medical device designed to assist clinicians better assess fetal well-being by providing a more reliable fetal health indicators compared to current technology. Our team won first place and received the top innovation award the 2022 UC Davis *Big Bang!* Business Competition. Also Storx was a runner up in the NIH RADx fetal monitoing challenge in 2024.
 
 ## Topics of Interests
 
