@@ -15,7 +15,7 @@ I graduated with a Ph.D. in Electrical and Computer Engineering from UC Davis in
 
 ## Leadership
 
-I am a co-founder of Storx Technologies. Storx Technologies is developing a non-invasive medical device designed to assist clinicians better assess fetal well-being by providing a more reliable fetal health indicators compared to current technology. Our team won first place and received the top innovation award the 2022 UC Davis *Big Bang!* Business Competition. Also Storx was a runner up in the NIH RADx fetal monitoing challenge in 2024.
+I am a co-founder of Storx Technologies. Storx Technologies is developing a non-invasive medical device designed to help clinicians better assess fetal well-being by providing more reliable fetal health indicators compared with current technology. Our team won first place and received the top innovation award at the 2022 UC Davis *Big Bang!* Business Competition. Storx was also a runner-up in the NIH RADx fetal monitoring challenge in 2024.
 
 ## Topics of Interests
 
@@ -23,11 +23,10 @@ I am a co-founder of Storx Technologies. Storx Technologies is developing a non-
 - Medical technologies
 - Wearables
 - Machine learning
-- Data science
-- Signal processing
 - Hardware/software co-design
 - System design and optimization
 - Internet of Things
+- Signal processing
 
 ## Teaching
 
